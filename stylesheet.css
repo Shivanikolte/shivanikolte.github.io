@@ -26,7 +26,7 @@ nav ul {
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
-    display: flex;
+  display: flex;
 }
 
 nav li {
@@ -37,7 +37,7 @@ nav a {
 	color: #eb6511;
 	text-decoration: none;
 }
-
+/*dont forhet to add click feedback*/
 a:visited {
     color:#eb6511;
 }
